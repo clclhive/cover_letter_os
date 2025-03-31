@@ -21,7 +21,12 @@
 2. **제공된 병원 데이터를 활용한 데이터 시각화**  
    - 역할: API 연결 및 데이터 시각화 아이디어 제공 및 개발  
    - 기술: React
-   - [프로젝트 링크]()
+   - [프로젝트 링크](https://github.com/clclhive/24-team-saeolnuh-Feature-sound.git)
+  
+3. **공용 데이터를 활용한 데이터 시각화**  
+   - 역할: API 연결 및 데이터 시각화  
+   - 기술: React, Javascript
+   - [프로젝트 링크](https://github.com/clclhive/24-assignment3-clclhive-main.git)
 
 ## 🧾 자격증
 - 정보처리기사 (2024년 6월 취득)  
